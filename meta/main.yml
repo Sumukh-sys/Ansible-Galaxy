@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Sumukh Krishna
+  description: Admin
+  company: HPE
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -32,7 +32,7 @@ galaxy_info:
   #   versions:
   #   - all
   #   - 25
-  # - name: SomePlatform
+  # - name: Linux
   #   versions:
   #   - all
   #   - 1.0
